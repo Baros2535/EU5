@@ -1,24 +1,12 @@
-package day_2;
+package day3;
 
 public class Question8 {
 
 	public static void main(String[] args) {
-		System.out.println("******       *************     **********");
-		System.out.println("**    **            **         **");
-		System.out.println("**     **           **         **");
-		System.out.println("**      **          **         **");
-		System.out.println("**      **          **         ********");
-		System.out.println("**      **   **     **         **");
-		System.out.println("**     **     **    **         **");
-		System.out.println("**    **       **  **          **");
-		System.out.println("******          ****           **********");
-		
-		System.out.print("Hello");
-		System.out.print('\t');
-		System.out.print("\b");
-		
-		System.out.println("World");
-		
+		// TODO Auto-generated method stub
+		String lan1="Java";
+		String lan2="SQL";
+		System.out.println("I will learn \"" + lan1 + "\" and \"" + lan2 + "\" at CybertekSchool.");
 
 	}
 
